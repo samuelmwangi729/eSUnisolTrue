@@ -32,7 +32,7 @@
         </form>
         <!-- Sidebar Menu -->
 
-        <ul class="sidebar-menu" data-widget="tree">
+        <ul class="sidebar-menu" data-widget="tree" style="font-size:10px;font-weight:bold;">
             @include('layouts.menu')
         </ul>
         <!-- /.sidebar-menu -->
