@@ -300,7 +300,7 @@
         <div class="collapse" id="collapseStudent" style="background-color:white;padding-left:5px">
             <ul class="navbar-nav" style="color:black">
                 <li class="nav-item active">
-                    <a class="nav-link" style="color:black" href="#"><i class="fa fa-graduation-cap"></i>&nbsp;&nbsp;Add Student </a>
+                    <a class="nav-link" style="color:black" href="/students/create"><i class="fa fa-graduation-cap"></i>&nbsp;&nbsp;Add Student </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" style="color:black" href="#"><i class="fa fa-eye"></i>&nbsp;&nbsp;Manage Students </a>
